@@ -26,8 +26,15 @@ Cuando me atascaba preguntaba a Carlos (co-fundador de osw) y poco despues en un
 
 Ulises me ayudó, me invitó a seguir en contacto y a que le preguntara cada vez que me atascara, y así lo hice (vaya, le eché mucha geta).
 
-A los 11 meses tuve mi primer contrato como desarrollador.
+A los 11 meses tuve mi primer contrato como desarrollador, sintiendome mas realizado que nunca en cuanto a lo laboral se refiere, siento de verdad que he nacido para esto.
 
 (Lo siento no se si resumirlo más aún)
 
-Vigilante conoce posibilidad de trabajar en algo que le gusta sin titulación universitaria *->* busca y rebusca en internet recursos gratuítos *->* cuando se atasca pregunta a amigos *->* funda comunidad de desarrollo open source *->* Encuentra trabajo.
+1.- Vigilante conoce posibilidad de trabajar en algo que le gusta sin titulación universitaria.
+
+2.- busca y rebusca en internet recursos gratuítos *->* cuando se atasca pregunta a amigos
+
+3.- Funda comunidad de desarrollo open source.  
+
+4.- Encuentra trabajo y se siente mas realizado y felíz.
+
