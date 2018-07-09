@@ -74,3 +74,24 @@ Y hoy día mantenemos esos valores, si en algún momento hemos detectado que nos
 Con el tiempo se añadió un sentimiento de pertenencia también a OTRAS comunidades, y por primera vez en mucho tiempo, las comunidades compartían y colaboraban en vez de competir entre ellas.
 
 Puede que Open Source Weekends cambie mucho, pero desde luego, nuestros valores siempre están y estarán ahí, es algo que mimamos mucho y si la cagamos, reculamos.
+
+### ¿Que es lo mejor que te ha pasado en Open Source Weekends?
+
+El 17 de Marzo a las 10.30 comenzaba como tantas veces un Open Source Weekends, uno que tuve que perderme porque a las 10.20 mi hija Emma nació, mi segundo hijo vino al mundo mientras mis amigos se preparaban para dar la keynote de Open Source Weekends.
+
+Esto obviamente no me ha pasado GRACIAS A Open Source Weekends pero sin duda es algo muy especial.
+
+Si la pregunta se refiere más a que es lo mejor que me ha pasado Gracias a Open Source Weekends...
+
+Es difícil elegir.
+
+- La cantidad de gente que he conocido.
+- La oportunidad de poder llegar a mas gente y ayudarla en su camino hacia el cambio de carrera.
+- Cuando "ese chaval" se acercó a mi en un `osw` y me dijo que le había cambiado la vida.
+- La oportunidad de dar visibilidad a otras comunidades.
+- Combatir ese síndrome del intruso que tanto me ha acosado.
+- Ayudar a personas a encontrar su primer trabajo como desarrollador.
+- Compartir código.
+- Proyectos alucinantes como Ginger Code, Goblin.
+- Poder ayudar a los demás (ya lo he dicho? es que me hace muy feliz y no lo sabía hasta que llegué a osw)
+- La lista puede llegar a ser interminable...
