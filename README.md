@@ -8,7 +8,7 @@ Os dejo 2 enlaces contando mi historia, uno en inglés en el foro de freecodecam
 
 [Español](https://medium.com/@josheriff/no-olvides-tus-ra%C3%ADces-7614c6790f26)
 
-[Ingés](https://medium.freecodecamp.org/from-self-taught-coder-to-professional-backend-developer-my-long-winding-road-d8f7c428b637)
+[Inglés](https://medium.freecodecamp.org/from-self-taught-coder-to-professional-backend-developer-my-long-winding-road-d8f7c428b637)
 
 Como me pedís que sea breve os cuento la historia resumida y carente de epícidad :P .
 
@@ -22,19 +22,18 @@ Todo ello derivó en que me puse a aprender a programar.
 
 Estuve como una semana probando diferentes sistemas, diferentes mooc gratuitos hasta que encontré freecodecamp y me encantó.
 
-Cuando me atascaba preguntaba a Carlos (co-fundador de osw) y poco despues en un evento sobre javascript conocí a Ulises que me vió progrmando mientras terminaba una charla en el auditorio.
+Cuando me atascaba preguntaba a Carlos (co-fundador de osw) y poco después en un evento sobre javascript conocí a Ulises que me vió programando mientras terminaba una charla en el auditorio.
 
 Ulises me ayudó, me invitó a seguir en contacto y a que le preguntara cada vez que me atascara, y así lo hice (vaya, le eché mucha geta).
 
-A los 11 meses tuve mi primer contrato como desarrollador, sintiendome mas realizado que nunca en cuanto a lo laboral se refiere, siento de verdad que he nacido para esto.
+A los 11 meses tuve mi primer contrato como desarrollador, sintiéndome mas realizado que nunca en cuanto a lo laboral se refiere, siento de verdad que he nacido para esto.
 
 (Lo siento no se si resumirlo más aún)
 
 1.- Vigilante conoce posibilidad de trabajar en algo que le gusta sin titulación universitaria.
 
-2.- busca y rebusca en internet recursos gratuítos *->* cuando se atasca pregunta a amigos
+2.- busca y rebusca en internet recursos gratuitos *->* cuando se atasca pregunta a amigos
 
 3.- Funda comunidad de desarrollo open source.  
 
-4.- Encuentra trabajo y se siente mas realizado y felíz.
-
+4.- Encuentra trabajo y se siente mas realizado y feliz.
