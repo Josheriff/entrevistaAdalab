@@ -37,3 +37,40 @@ A los 11 meses tuve mi primer contrato como desarrollador, sintiéndome mas real
 3.- Funda comunidad de desarrollo open source.  
 
 4.- Encuentra trabajo y se siente mas realizado y feliz.
+
+### ¿Como se os ocurrió crear Open Source Weekends?
+
+Es una pregunta que hemos contestado muchas veces, pero siempre encima de un escenario, en directo, y porqué no decirlo con prisas.
+
+Ya os he contado que cuando tenía dudas preguntaba a Carlos o a Ulises, eso conllevaba que los invitaba a numerosos cafés, que hablábamos de la vida,
+de como nos conocímos de donde nos había llevado, en definitiva nos hicímos grandes amigos.
+
+Tanto es así que a día de hoy son sin ningún tipo de duda mis mejores amigos.
+
+Un día hablando con Ulises en uno de esos cafés, salió el tema de como antes las comunidades eran importantes, de como las cosas antes molaban y ahora no tanto.
+
+Yo aunque no había programado si había conocido los installfest de linux, las charlas de ciberseguridad, los foros de hackeo...
+
+A Ulises le conté como quería fundar algo a freecodecamp pero en español, un portal para enseñar a programar
+pero que no parara ahí la cosa, quería esparcir la ideología open source, esta idea llevaba rondándome mucho tiempo y se la había contado a un par de personas que pensé querrían ayudarme, pero no cuajó, estas personas solo querían rentabilizar la idea y yo sólo quería hacerlo por amor al arte.
+
+Pues pasados unos pocos días, Ulises apareció en Campus y me dijo que había estado pensando en esa idea, que había estado madurándolo y juntándolo con otras conversaciones que habíamos tenido.
+
+Me dijo que quería fundar una comunidad open source, por encima del portal, LA COMUNIDAD, que el portal ya llegaría si tenía que llegar, me explicó su visión, concretamos que lo que molaría muchisísimo por encima de todo es juntarnos con 4 o 5 amantes del código y del open source, los típicos locos y....
+
+HACER COSAS por encima de hablar de como hacerlas.
+
+También nos dimos cuenta que nos hacía falta ayuda, mucha ayuda, y como yo era el que conocía a todo el mundo, acabé liando a Carlos y a Ignacio. Que francamente estuvieron tan entusiasmados como nosotros.
+
+Así nació Open Source Weekends bajo las premisas:
+
+- La comunidad es lo primero.
+- Hacer cosas y no solo hablar de como hacerlas.
+  - Pasarlo bien haciendo esas cosas en comunidad.
+  - No hacer cosas con ánimo de lucro.
+
+Y hoy día mantenemos esos valores, si en algún momento hemos detectado que nos alejábamos de esos objetivos hemos cambiado para volver a ellos.
+
+Con el tiempo se añadió un sentimiento de pertenencia también a OTRAS comunidades, y por primera vez en mucho tiempo, las comunidades compartían y colaboraban en vez de competir entre ellas.
+
+Puede que Open Source Weekends cambie mucho, pero desde luego, nuestros valores siempre están y estarán ahí, es algo que mimamos mucho y si la cagamos, reculamos.
