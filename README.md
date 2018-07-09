@@ -96,6 +96,10 @@ Es difícil elegir.
 - Poder ayudar a los demás (ya lo he dicho? es que me hace muy feliz y no lo sabía hasta que llegué a osw)
 - La lista puede llegar a ser interminable...
 
+Aunque si tengo que elegir uno, pues, el hecho de que cuando llevaba como 9 meses programando sufrí una crisis y llegué a pensar que jamás lo conseguiría, que las cosas buenas no le pasaban a las personas buenas, que eso solo era cosa de hollywood y los coaches que venden humo.
+
+Pero Open Source Weekends me dió la fortaleza, un motivo por el que seguir adelante y si osw no hubiera existido... probablemente yo habría acabado tirando la toalla por mucho que me animaran en casa. (cuando te lo dicen tus seres queridos te lo crees menos :P )
+
 ### ¿Que inconvenientes trae la creación de un proyecto así? ¿Cuales han sido tus principales obstáculos?
 
 Los primeros inconvenientes para este tipo de comunidades suele ser encontrar un lugar donde reunirse y una vez encontrado gestionar la logística del lugar.
@@ -104,11 +108,39 @@ Pero francamente contamos con Campus Madrid desde el primer momento y cuando arr
 
 Había visto toda clase de despistes, buenas ideas, detalles que pueden llevar tu evento al éxito o al fracaso.
 
+
 Una cosa que no solemos contar es que teníamos un patrocinador que se retiró la noche de antes del evento, así que las primeras pizzas las pagamos de nuestros bolsillos, porque habíamos dicho que iba a haber pizzas ¡y tenía que haberlas!
+
+Tal vez el primer desafío con el que te encuentras es que la comunicación interna fluya, siendo 4 organizadores cualquier decisión podía postponerse  infinitamente sin que nos dieramos cuenta, así que, sabiendo que ese problema era inminente, simplemente decidimos repartir un poco las tareas, y aún así, si se percibía que una taréa había pasado desapercibida, el que lo percibía directamente se ponía a ello.
+
+Confiamos siempre en la gestión de los demás, y si alguna vez desemboca en algo negativo, el resto lo arropa para que no se sienta mal, lección aprendida y a otra cosa.
 
 Otro inconveniente típico es el de los trolls, pero francamente ese ha sido un tema al que nos hemos tenído que enfrentar bastante tarde, mientras tanto la propia comunidad da la espalda a la gente indeseable, y estas personas escudadas en que no tenemos nivel no vuelven. Es maravilloso, porque ellos contentos y nosotros también, todos ganamos.
 
 
 En cuanto a los obstáculos, los más acusados es el de organizar eventos puntuales con alguna comunidad con poco tiempo, y falta de fluidez en la comunicación, además de otros detalles que por elegancia pues no se comentan, porque al fin y al cabo, la cosa es comunicarse y comunicarse bien desde el principio, cosa que es una calle de doble sentido.
 
-También está el tema de los patrocinadores, aunque nosotros tuvimos suerte y supimos atraer la atención rapidamente :D
+También está el tema de los patrocinadores, aunque nosotros tuvimos suerte y supimos atraer la atención rápidamente :D
+
+### También colaboras con Head Hunters. ¿Que consejos le darías a las personas que, como nosotras, están comenzando a introducirse en el mundo de la programación?
+
+No es que colabore con los Head Hunters, en realidad lo que intento es mantener una buena relación, porque, seamos justos, la entrada en el mundo del desarrollo es difícil.
+
+Open Source Weekends está llena de Juniors, y mantener una buena relación con los Head Hunters al menos amplía las posibilidades, pero no es solo por esto.
+
+Mi posición en el mundo laboral ha ido cambiando y digamos que he desarrollado cierta empatía por las personas que tienen un trabajo difícil o incluso mirados con hastío en ciertos sectores.
+Al final, todos somos "curritos", que hacen su trabajo, y la gran mayoría son gente maja. (no digo que no existan perfiles menos agradables, pero bueno... prefiero ver lo bueno de las personas.)
+
+Respecto a los consejos.
+
+- Sube todo a github, hasta la lista de la compra!
+- PPP. Practicar, practicar y practicar.
+Estás aprendiendo markdown, pues lo dicho, la lista de la compra en markdown y a github.
+Estás aprendiendo a recorrer arrays pues diseña algo que se aproveche de ello.
+Acabáis de empezar con llamadas AJAX, hay millones de APIS abiertas ahí fuera esperando ser explotadas.
+
+- ABC. Always be closing.
+Todo lo mencionado hasta ahora carece de valor si no cierras ningún proyecto. Vale mas un proyecto cerrado que 100 abiertos.
+- No te obsesiones con la perfección.
+Diseña algo feo pero que funcione 100% , luego ponlo bonito, luego añádele otra funcionalidad en feo, luego ponlo bonito.
+(De como una app de contar personas se convirtió en cuenta-personas multidispositivo en tiempo real, con alarma, audio...)
