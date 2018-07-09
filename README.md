@@ -95,3 +95,20 @@ Es difícil elegir.
 - Proyectos alucinantes como Ginger Code, Goblin.
 - Poder ayudar a los demás (ya lo he dicho? es que me hace muy feliz y no lo sabía hasta que llegué a osw)
 - La lista puede llegar a ser interminable...
+
+### ¿Que inconvenientes trae la creación de un proyecto así? ¿Cuales han sido tus principales obstáculos?
+
+Los primeros inconvenientes para este tipo de comunidades suele ser encontrar un lugar donde reunirse y una vez encontrado gestionar la logística del lugar.
+
+Pero francamente contamos con Campus Madrid desde el primer momento y cuando arrancamos el proyecto yo ya había vivido unos 300 o 400 eventos.
+
+Había visto toda clase de despistes, buenas ideas, detalles que pueden llevar tu evento al éxito o al fracaso.
+
+Una cosa que no solemos contar es que teníamos un patrocinador que se retiró la noche de antes del evento, así que las primeras pizzas las pagamos de nuestros bolsillos, porque habíamos dicho que iba a haber pizzas ¡y tenía que haberlas!
+
+Otro inconveniente típico es el de los trolls, pero francamente ese ha sido un tema al que nos hemos tenído que enfrentar bastante tarde, mientras tanto la propia comunidad da la espalda a la gente indeseable, y estas personas escudadas en que no tenemos nivel no vuelven. Es maravilloso, porque ellos contentos y nosotros también, todos ganamos.
+
+
+En cuanto a los obstáculos, los más acusados es el de organizar eventos puntuales con alguna comunidad con poco tiempo, y falta de fluidez en la comunicación, además de otros detalles que por elegancia pues no se comentan, porque al fin y al cabo, la cosa es comunicarse y comunicarse bien desde el principio, cosa que es una calle de doble sentido.
+
+También está el tema de los patrocinadores, aunque nosotros tuvimos suerte y supimos atraer la atención rapidamente :D
