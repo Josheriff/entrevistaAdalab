@@ -141,6 +141,13 @@ Acabáis de empezar con llamadas AJAX, hay millones de APIS abiertas ahí fuera 
 
 - ABC. Always be closing.
 Todo lo mencionado hasta ahora carece de valor si no cierras ningún proyecto. Vale mas un proyecto cerrado que 100 abiertos.
+
 - No te obsesiones con la perfección.
 Diseña algo feo pero que funcione 100% , luego ponlo bonito, luego añádele otra funcionalidad en feo, luego ponlo bonito.
 (De como una app de contar personas se convirtió en cuenta-personas multidispositivo en tiempo real, con alarma, audio...)
+
+- No subestimes el poder del postureo.
+
+Redes sociales, fotos, eventos, networking, todos sabemos de que trata el postureo, las marcas lo usan para venderse, pues TÚ TIENES QUE VENDERTE, eres tu propia marca así que por ahora
+y hasta que tengas curro, un poco de postureo te va a ayudar. Parece un consejo lamentable, pero es la realidad, si no te gusta, no tienes porque jugar con estas reglas, pero desde luego
+ESTARAS EN DESVENTAJA.
